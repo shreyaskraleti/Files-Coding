@@ -1,3 +1,4 @@
+# Condition:
 # import threading
 # condition = threading.Condition()
 # acquire()
@@ -38,6 +39,24 @@ t2 = threading.Thread(target=consumer, args=(c,))
 
 t1.start()
 t2.start()
+
+#Queue:
+# import queue
+# q = queue.Queue()
+# put(): put an item into the queue
+# get(): get an item from the queue
+
+import queue, time, random
+from threading import *
+q = queue.Queue()
+items = []
+c = threading.
+
+def producer(q):
+    
+
+
+
 
 
 
