@@ -1,0 +1,13 @@
+body {
+    width: 200px;
+    height: 200px;
+    border-top: 15px solid red;
+    border-right: 15px dotted blue;
+    border-bottom: 15px dashed red;
+    border-left: 15px double blue;
+}
+
+h2 {
+    color: black;
+    margin: 20px;
+}
