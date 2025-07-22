@@ -1,3 +1,4 @@
+# coding exercises and mcq:
 # 1) Sum of Even Numbers in a List:
 # Write a Python function that takes a list of integers and returns the sum of all even numbers in the list.
 def sum_even(numbers):

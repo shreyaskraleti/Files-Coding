@@ -1,3 +1,4 @@
+# coding exercises:
 # 1. Write a program that takes a string input from the user and prints the reversed string.
 string_input = input("enter a string:")
 reversed_string = string_input[::-1]
