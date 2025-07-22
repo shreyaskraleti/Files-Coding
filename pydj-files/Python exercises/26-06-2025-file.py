@@ -1,3 +1,4 @@
+# Coding Exercises:
 # 1. Write a program to take a number from the user and print whether it is even or odd.
 a = int(input("Enter a number:"))
 if a%2 == 0:

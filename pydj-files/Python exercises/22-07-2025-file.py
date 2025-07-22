@@ -1,4 +1,4 @@
-# chapter-2
+# Chapter-2 - Apna College:
 # Strings:
 # to input user first name and print its length.
 first_name = input("Enter your first name:")

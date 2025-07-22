@@ -1,5 +1,5 @@
-# Chapter-1
-# Variables and Data types
+# Chapter-1 - Apna College:
+# Variables and Data types:
 # sum
 num1 = int(input("enter first number:"))
 num2 = int(input("enter second number:"))
